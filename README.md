@@ -1,91 +1,27 @@
-<div align="center">
-<h1 align="center">Hola, soy Samuel 👋</h1>
-</div>
-<img src="https://github.com/codersamx/hello-world/blob/3da7959417321df8ad7ac57d00764d5ddaa5da37/codersamblack.png">
+<p align="left"> </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hola+👋+Soy+Samuel+.+bienvenidos!)](https://www.youtube.com/c/MagnoEfren/videos)
 
-## Sobre mi
+![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github_snake.svg)
 
-- ⭐ Github Star ⭐ 
-- 📲 Actualmente estoy estudiando Ingenieria de sistemas
-<br>
+  
+<a href="aqui mi link" target="_blank">
+<img src=https://img.shields.io/badge/instagram-F4A98F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  
+<a href="aqui mi link" target="_blank">
+  
+<img src="https://img.shields.io/badge/YouTube-FF0905?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">   
+<a href="aqui mi link" target="_blank">
+<img src="https://img.shields.io/badge/X-8FC3F4?style=for-the-badge&logo=X&logoColor=white" target="_blank"> 
 
-## Proyectos *bombitas*
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Curso Android Básico</h3>
-<div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
-</td>
+<a href="aqui mi link" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-4B49B9?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"> 
 
-<td width="50%">
-               <br>
-<h3 align="center">Arquitectura MVVM</h3>
-<div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
-<br>
-<p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
-</p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
+ </a>  
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
-<div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
-</td>       
+#### Sobre mi.
 
-<td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
-<div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
-</td>  
-</table>                                                                                 
-</div>
-<br>
-
+- 🎓 Estudiante de Ingeniería en Sistemas apasionado por la tecnología y la programación.
+- 🐍 Me encanta resolver problemas y crear soluciones innovadoras con Python.
+- 💡 Explorando áreas como desarrollo de software, inteligencia artificial y arquitectura de sistemas.
+- 📚 Siempre aprendiendo algo nuevo y compartiendo mis proyectos con la comunidad.
