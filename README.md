@@ -2,6 +2,7 @@
 <h1 align="center">Hola, soy Samuel 👋</h1>
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://github.com/codersamx/hello-world/blob/3da7959417321df8ad7ac57d00764d5ddaa5da37/codersamblack.png">
 
 
 ## Sobre mi
